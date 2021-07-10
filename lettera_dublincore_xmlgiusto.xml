@@ -1,0 +1,28 @@
+<!DOCTYPE xml>
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns:dc="http://purl.org/dc/elements/1.1/" xml:id="Letter from Michael Ventris to Emmett L. Bennett, December 26, 1953">
+<author xml:id="Maria Streccioni">
+<item xml:id="Letter from Michael Ventris to Emmett L. Bennett, December 26, 1953">
+
+<dc:title>Lettera di Michael Ventris a Emmett L. Bennett, 26 Dicembre 1953</dc:title>
+<dc:creator ref="https://it.wikipedia.org/wiki/Michael_Ventris">Michael Ventris</dc:creator>
+<dc:date>1953-12-26</dc:date>
+<dc:subject>Lettere di Michael Ventris</dc:subject>
+<dc:subject>Corrispondenza M. Ventris-E. L. Bennett</dc:subject>
+<dc:subject>Lineare B</dc:subject>
+<dc:description>Ventris discute la tavoletta PY Ta 641 e l'espressione "ke-re-a2".</dc:description>
+<dc:publisher>Michael Ventris Letters</dc:publisher>
+<dc:type>Testo</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>METTERE URL DI GITHUB</dc:identifier>
+<dc:source>Program in Aegean Scripts and Prehistory (PASP)</dc:source>
+<dc:relation>http://hdl.handle.net/2152/20932</dc:relation>
+<dc:provenance>Program in Aegean Scripts and Prehistory (PASP)</dc:provenance>
+<dc:language>eng</dc:language>
+<dc:coverage>1953</dc:coverage>
+<dc:rights>CC0 1.0, Public Domain Dedication</dc:rights>
+
+</item>
+</author>
+</library>
+<xml>

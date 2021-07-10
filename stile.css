@@ -1,0 +1,36 @@
+header {
+	background-color:#ffe680;
+	font-family: Lucida Console;
+	padding-top: 30px;
+	padding-bottom:30px;
+}
+footer {
+	font-family: Lucida Console;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+img {
+	padding-top: 20px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 20px;
+}
+.persona {
+text-decoration: underline;
+color: tomato;
+}
+.tavoletta {
+text-decoration: underline;
+color: slateblue;
+
+}
+.citazione {
+text-decoration: underline;
+color: #339933;
+
+}
+.articolo {
+text-decoration: underline;
+text-decoration-color: darkgray;
+
+}

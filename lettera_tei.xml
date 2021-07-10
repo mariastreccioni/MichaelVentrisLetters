@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+<fileDesc>
+<titleStmt>
+<title>Letter from Michael Ventris to Emmett L. Bennett, December 26, 1953</title>
+<author>Michael Ventris</author>
+<respStmt>
+<resp>Encoded by</resp>
+<name xml:id="MS">Maria Streccioni</name>
+</respStmt>
+<sourceDesc>
+  <title>Michael Ventris Papers</title>
+  <publisher>Program in Aegean Scripts and Prehistory (PASP)</publisher>
+  <date>2013</date>
+</sourceDesc>
+</titleStmt>
+<publicationStmt>
+<publisher>Università di Bologna</publisher>
+<pubPlace>Bologna, Italia</pubPlace>
+<address>
+<addrLine>Corso di Digital Humanities e Patrimonio Culturale</addrLine>
+</address>
+<date>2021​-07​-08</date>
+</publicationStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title> Michael Ventris Correspondence </title>
+<author>Program in Aegean Scripts and Prehistory (PASP)</author>
+</titleStmt>
+<publicationStmt>
+<publisher>Program in Aegean Scripts and Prehistory (PASP)</publisher>
+<pubPlace>The University of Texas at Austin</pubPlace>
+<date>2013-07-25</date>
+</publicationStmt>
+<titleStmt>
+  <title>King Nestor's four-handled cups. Greek inventories in the Minoan script</title>
+  <author>Ventris, Michael</author>
+ </titleStmt>
+ <extent>pp. 15-21</extent>
+ <publicationStmt>
+  <publisher>Archaeology</publisher>
+  <date>1954</date>
+ </publicationStmt>
+<titleStmt>
+  <title>Weiteres zu den pylischen Sachzeichen</title>
+  <author>Sundwall, Johannes</author>
+ </titleStmt>
+ <extent>pp. 29-35</extent>
+ <publicationStmt>
+  <publisher>Minos</publisher>
+  <date>1952</date>
+ </publicationStmt>
+ <titleStmt>
+  <title>A second inscribed clay tablet from Enkomi</title>
+  <author>Dikaios, P.</author>
+ </titleStmt>
+ <extent>pp. 233-237</extent>
+ <publicationStmt>
+  <publisher>Antiquity</publisher>
+  <date>1953</date>
+ </publicationStmt>
+</biblFull>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<langUsage>
+<language ident="en">English</language>
+<language ident="grc">Ancient Greek</language>
+</langUsage>
+<editorialDecl>
+<p>La lettera è stata trascritta cercando di mantenere la divisione in paragrafi e le alternanze tra maiuscole e minuscole nella scrittura dell'originale. Per quanto riguarda le parti in lingue diverse dall'inglese, si è scelto di traslitterare le citazioni in greco miceneo ove ciò non fosse stato già fatto dall'autore, mentre le citazione in greco antico sono state mantenute e trascritte come tali. A margine sono state fornite indicazioni sui riferimenti delle tavolette micenee, le persone citate, le citazioni e gli articoli scientifici menzionati nella lettera e marcati appositamente.</p>
+</editorialDecl>
+</encodingDesc>
+</teiHeader>
+<text xmlns="http://www.tei-c.org/ns/1.0">
+<!--testo lettera-->
+<body>
+<p>19 North End, NW3.
+26 December 1953</p>
+
+
+<p>Dear Bennett,</p>
+
+<p>  Coming back today after being away in the country for Christmas, 
+the unheated house was considerably cheered by your new letter, with 
+the very prompt and kind delivery of the photos for the article. I am 
+glad you got the "Glossary" all right: I only had the other copies 
+photostatted, so the expense wasn't too unreasonable (it was writing
+it out I got heartily sick of, as I expect you do of your own indices).</p>
+
+<p> Thank you too for your comments on the <q>tripods</q>, which are very 
+interesting. My first reaction is to rise up in arms about the interpretation of <q>line 1</q>, but I don't want to stick my neck out too far, as
+I gather from your remarks that there are other tripod tablets- is that 
+right?</p>
+
+<p>  But I can't suppress the feeling that <q>ai-ke-u</q> has the shape of a
+man's name, or at any rate a proper name of some kind; and that <q>"horn"</q> 
+for these objects isn't quite the right material. <q>&kappa;&epsilon;&rho;&epsilon;&alpha;</q> for <q>&kappa;&epsilon;&rho;&alpha;&alpha;</q>
+is, as far as one can judge, a pure Ionicism. But I certainly agree that 
+it looks like <q>a-pu ke-ka-u-me-no</q>. I was a bit uncertain about this 
+end of the tablet, as I wasn't certain how much was broken off, but 
+evidently there's room for no more on the bottom line. Is there a second 
+word on the top line? I don't feel entirely bound by the division after 
+<q>a-pu</q>, because the scribes don't always seem to be consistent in com-
+pounds. (Don't I see an erased division after <q>k-toi-no-</q> on <q>Eb 35.2</q>?). 
+And I don't see how the ending of <q>KE-RE-A2</q> can tolerate a preposition 
+<q>a-pu</q> governing it. An English crank has suggested to me something like 
+<q>"from burnt earth"</q> i.e. earthenware, incidentally. If <q>KE-RE-A2</q> is a 
+nominative plural, like the WHEELS words of the same ending, it can still 
+go with <q>-me-NO</q> if one assumes an accusative of respect (or part affected). 
+Aristophanes says, for instance,<q>&kappa;&alpha;&omicron;&mu;&alpha;&iota; &tau;&eta;&nu; &kappa;&alpha;&rho;&delta;&iota;&alpha;&nu;</q> <q>"my heart 
+is burning"</q>. So my guess for this is something like <q>a-pu-ke-ka-u-me-nos 
+ske-le-a</q> <q>"charred as to the legs"</q>, the <q>-me-nos</q> going of course with 
+<q>t-ri-pos</q>.</p>
+
+<p>  Incidentally, I gather that Georgiev is preparing an attack on the 
+"standard" general interpretation of the TRIPODS tablet, in which he 
+will produce a highly fantastic translation. As an argument that the 
+"tripods" words don't apply to TRIPODS, he maintains that the ideogram 
+at the beginning of line 2 is the end of the final sentence of line 1. 
+But I am sure if that was the case the scribe would never have bothered 
+to double up the last words of line 1 in that way, but would have 
+given himself more space on the next line.</p>
+
+<p>  I will leave more discussion of the TRIPODS for the moment. I'm 
+jotting down a lot of more detailed comments on your last letter, which 
+I hope to let you have in the next month.</p>
+
+<p>  I will shove in my own ideas on TRIPODS line 1 in the <bibl>ARCHAEOLOGY 
+article</bibl>, but make it clear that there's room for several divergent 
+interpretations.</p>
+
+<p>  I haven't seen a copy of the Mycenae tablets yet, but here's 
+the loan of Sundwall's <bibl>MA article</bibl>. I'm not sure about the Enkomi photos; 
+Crawford was puzzled about them too, but I think decided in the end that 
+they were unretouched. The last line which goes over the edge of the 
+reverse is part of the text, not a label. Dikaios sent me another photo, 
+which shows the signs listed in a footnote to the <bibl>ANTIQUITY article</bibl>.</p>
+
+
+  <p>Best wishes for 1954,</p>
+
+
+    <p>Michael Ventris</p>
+ </body>
+
+
+
+
+
+
+
+</text>
+</TEI>
