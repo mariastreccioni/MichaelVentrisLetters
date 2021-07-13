@@ -21,9 +21,11 @@
 </langUsage>
 </teiHeader>
 <text>
+<letter>
 <body>
-<p>19 North End, NW3.
-26 December 1953</p>
+<address>19 North End, NW3.
+26 December 1953</address>
+<addressee>Dear Bennett,</addressee>
 <p>Coming back today after being away in the country for Christmas, 
 the unheated house was considerably cheered by your new letter, with 
 the very prompt and kind delivery of the photos for the article. I am 
@@ -34,25 +36,25 @@ it out I got heartily sick of, as I expect you do of your own indices).</p>
 interesting. My first reaction is to rise up in arms about the interpretation of <mentioned>line 1</mentioned>, but I don't want to stick my neck out too far, as
 I gather from your remarks that there are other tripod tablets- is that 
 right?</p>
-<p>  But I can't suppress the feeling that <q xml:id="grc">ai-ke-u</q> has the shape of a
+<p>  But I can't suppress the feeling that <q lang="grc">ai-ke-u</q> has the shape of a
 man's name, or at any rate a proper name of some kind; and that <q>"horn"</q> 
-for these objects isn't quite the right material. <q xml:id="grc">Kerea</q> for <q xml:id="grc">Keraa</q>
+for these objects isn't quite the right material. <q lang="grc">Kerea</q> for <q lang="grc">Keraa</q>
 is, as far as one can judge, a pure Ionicism. But I certainly agree that 
-it looks like <q xml:id="grc">a-pu ke-ka-u-me-no</q>. I was a bit uncertain about this 
+it looks like <q lang="grc">a-pu ke-ka-u-me-no</q>. I was a bit uncertain about this 
 end of the tablet, as I wasn't certain how much was broken off, but 
 evidently there's room for no more on the bottom line. Is there a second 
 word on the top line? I don't feel entirely bound by the division after 
-<q xml:id="grc">a-pu</q>, because the scribes don't always seem to be consistent in com-
-pounds. (Don't I see an erased division after <q xml:id="grc">k-toi-no-</q> on <q xml:id="grc">Eb 35.2</q>?). 
-And I don't see how the ending of <q xml:id="grc">KE-RE-A2</q> can tolerate a preposition 
-<q xml:id="grc">a-pu</q> governing it. An English crank has suggested to me something like 
-<q>"from burnt earth"</q> i.e. earthenware, incidentally. If <q xml:id="grc">KE-RE-A2</q> is a 
+<q lang="grc">a-pu</q>, because the scribes don't always seem to be consistent in com-
+pounds. (Don't I see an erased division after <q lang="grc">k-toi-no-</q> on <q lang="grc">Eb 35.2</q>?). 
+And I don't see how the ending of <q lang="grc">KE-RE-A2</q> can tolerate a preposition 
+<q lang="grc">a-pu</q> governing it. An English crank has suggested to me something like 
+<q>"from burnt earth"</q> i.e. earthenware, incidentally. If <q lang="grc">KE-RE-A2</q> is a 
 nominative plural, like the WHEELS words of the same ending, it can still 
-go with <q xml:id="grc">-me-NO</q> if one assumes an accusative of respect (or part affected). 
-Aristophanes says, for instance, <q xml:id="grc">Kaomai ten kardian</q> <q>"my heart 
-is burning"</q>. So my guess for this is something like <q xml:id="grc">a-pu-ke-ka-u-me-nos 
-ske-le-a</q> <q>"charred as to the legs"</q>, the <q xml:id="grc">-me-nos</q> going of course with 
-<q xml:id="grc">t-ri-pos</q>.</p>
+go with <q lang="grc">-me-NO</q> if one assumes an accusative of respect (or part affected). 
+Aristophanes says, for instance, <q lang="grc">Kaomai ten kardian</q> <q>"my heart 
+is burning"</q>. So my guess for this is something like <q lang="grc">a-pu-ke-ka-u-me-nos 
+ske-le-a</q> <q>"charred as to the legs"</q>, the <q lang="grc">-me-nos</q> going of course with 
+<q lang="grc">t-ri-pos</q>.</p>
 <p>  Incidentally, I gather that Georgiev is preparing an attack on the 
 "standard" general interpretation of the TRIPODS tablet, in which he 
 will produce a highly fantastic translation. As an argument that the 
@@ -85,5 +87,6 @@ which shows the signs listed in a footnote to the <q>ANTIQUITY article</q>.</p>
 
 
 </body>
+</letter>
 </text>
 </TEI>
